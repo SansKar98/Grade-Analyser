@@ -1,6 +1,6 @@
 ## Project info
 
-**Deployed URL**: https://grade-analyser.vercel.app/login
+**Deployed URL**: https://grade-analyser.vercel.app/
 
 Follow these steps:
 
